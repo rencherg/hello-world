@@ -2,4 +2,4 @@
 
 By Grant Rencher.
 
-printing hello world in different languages.
+hello world in different languages.
